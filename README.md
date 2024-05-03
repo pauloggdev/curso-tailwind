@@ -1,6 +1,6 @@
-# curso tailwind
+# curso tailwind version 2.2.16
 
-## install tailwind
+## install tailwind 
 
 ### Executar as configurações do Tailwind atual:
 <p>1 - npm install -D tailwindcss</p>
@@ -17,6 +17,11 @@
 ```
 npm install
 ```
+
+## sites para inspiração
+<a href="https://www.behance.net/">https://www.behance.net/</a>
+<a href="https://br.pinterest.com/">https://br.pinterest.com/</a>
+<a href="https://dribbble.com/">https://dribbble.com/</a>
 
 
 ### Customize configuration

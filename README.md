@@ -19,9 +19,15 @@ npm install
 ```
 
 ## sites para inspiração
+<p>
 <a href="https://www.behance.net/">https://www.behance.net/</a>
+</p>
+<p>
 <a href="https://br.pinterest.com/">https://br.pinterest.com/</a>
+</p>
+<p>
 <a href="https://dribbble.com/">https://dribbble.com/</a>
+</p>
 
 
 ### Customize configuration
